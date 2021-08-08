@@ -1,2 +1,2 @@
 # project-sophie
-hehepp
+Project Sophie is a game.
